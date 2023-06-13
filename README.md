@@ -1,0 +1,2 @@
+# EmojiSearchApp
+Created with CodeSandbox
